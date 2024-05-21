@@ -9,6 +9,7 @@ I am Saar.
 - ❤️❤️❤️ latest impressive website: the improved Nort Sea Jazz app and use of animation in it.
 
 <details>
+<summary>My coding languages and frameworks</summary>
 
 
 | Rank | languages and then some |
