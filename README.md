@@ -1,6 +1,6 @@
 ## about me
 
-I am Saar. I just almost completed my Full Stack Bootcamp at Hogeschool Novi.
+I am Saar. I almost completed my Full Stack Bootcamp at Hogeschool Novi.
 
 - 🤟 I’m currently learning more about the Front- and Backend, this journey is a trip!
 - 📌 Love to make apps visually beautiful and practical;
