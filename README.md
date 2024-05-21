@@ -8,7 +8,7 @@ I am Saar.
 - 😍😍 latest visual highlight: Rietveld/Schröder huis in Utrecht;
 - ❤️❤️❤️ latest impressive website: the improved Nort Sea Jazz app and use of animation in it.
 
-
+<details>
 
 
 | Rank | languages and then some |
@@ -19,4 +19,6 @@ I am Saar.
 |     4|   React                 |
 |     5|   Java                  |
 |     6|   Spring Boot           |
+
+</detail>
 
